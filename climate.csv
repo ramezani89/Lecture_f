@@ -1,0 +1,13 @@
+Country,Date,Temperature (Celsius),Humidity (%),Wind Speed (km/h)
+United States,2023-05-01,22.5,60,10
+United States,2023-05-02,20.7,55,12
+United States,2023-05-03,25.2,68,8
+Canada,2023-05-01,18.9,50,15
+Canada,2023-05-02,17.4,48,13
+Canada,2023-05-03,20.1,52,10
+United Kingdom,2023-05-01,15.2,70,8
+United Kingdom,2023-05-02,14.8,72,9
+United Kingdom,2023-05-03,16.5,68,7
+Germany,2023-05-01,20.7,60,11
+Germany,2023-05-02,22.1,62,10
+Germany,2023-05-03,19.8,58,12
