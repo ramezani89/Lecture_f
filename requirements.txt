@@ -6,4 +6,3 @@ fiona
 shapely
 rasterio
 rasterstats
-rasterio.mask
